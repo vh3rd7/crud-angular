@@ -3,5 +3,9 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useEditorConfig": true,
+  "prettier.requireConfig": true,
+  "files.eol": "\n",
   "typescript.tsdk": "node_modules\\typescript\\lib"
 }
